@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**pe-Gomes/pe-Gomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me:
+I'm **Pedro Gomes**, a Brazilian full-stack software developer who loves technology and how it can change how we interpret the world. And it is a blast to make part of some of those changes.
 
-Here are some ideas to get you started:
+I'm also often trying to learn something new and embrace different languages and frameworks best suited to the job.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My most written languages at the moment are:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pe-Gomes&theme=tokyonight)
+
+### Social
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-cg-bernardes)
