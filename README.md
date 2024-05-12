@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 ### About me:
-I'm **Pedro Gomes**, a Brazilian full-stack software developer who loves technology and how it can change how we interpret the world. And it is a blast to make part of some of those changes.
+I'm **Pedro Gomes**, a Brazilian full-stack software developer who loves technology and how it can our lives.
 
-I'm also often trying to learn something new and embrace different languages and frameworks best suited to the job.
+I'm also often trying to learn something new, embracing different perspectives, and improving my skills to achieve the new best version of myself.
 
 ### My most written languages at the moment are:
 
